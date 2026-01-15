@@ -1,0 +1,6 @@
+flask
+openai
+pymupdf
+pandas
+feedparser
+twilio
